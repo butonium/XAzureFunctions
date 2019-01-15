@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctions.Droid", "AzureFunctions.Droid\AzureFunctions.Droid.csproj", "{4E50DC3F-A361-4BB5-9E26-F5390B45D68E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctions1", "AzureFunctions1\AzureFunctions1.csproj", "{7505C605-FC1A-4C44-BACB-75B5E0FF7ED4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctions", "AzureFunctions\AzureFunctions.csproj", "{F243601F-C246-4682-9E57-37464A853725}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,10 @@ Global
 		{4E50DC3F-A361-4BB5-9E26-F5390B45D68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E50DC3F-A361-4BB5-9E26-F5390B45D68E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{4E50DC3F-A361-4BB5-9E26-F5390B45D68E}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{7505C605-FC1A-4C44-BACB-75B5E0FF7ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7505C605-FC1A-4C44-BACB-75B5E0FF7ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7505C605-FC1A-4C44-BACB-75B5E0FF7ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7505C605-FC1A-4C44-BACB-75B5E0FF7ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F243601F-C246-4682-9E57-37464A853725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F243601F-C246-4682-9E57-37464A853725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F243601F-C246-4682-9E57-37464A853725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F243601F-C246-4682-9E57-37464A853725}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
